@@ -1,18 +1,14 @@
-# Welcome to React Router!
-
-A modern, production-ready template for building full-stack React applications using React Router.
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+# Welcome to Pokemon Type Helper!
 
 ## Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+This app can help you find the strengths and weakness of pokemon types to help you battle more succesfully.
+
+## Technologies
+- React Router Framework
+- VITE
+- Typescript
+- Tailwind CSS
 
 ## Getting Started
 
